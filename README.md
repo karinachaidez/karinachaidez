@@ -1,4 +1,4 @@
-👋 Hi, I’m @karinachaidez
+👋 Hi, I’m Karina @karinachaidez
 
 <!---
 karinachaidez/karinachaidez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
